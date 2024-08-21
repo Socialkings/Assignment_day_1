@@ -66,9 +66,6 @@ When to Use:
 Example Scenario: 
  Developing Software for a Medical Device: In this scenario, strict regulatory requirements and fixed specifications are critical. The Waterfall model ensures that each phase is meticulously documented and reviewed, minimizing the risk of errors in the final product.
 
-
-
-
  Agile Methodology
 Overview:  
  Agile is an iterative and incremental approach to software development. It emphasizes flexibility, collaboration, and customer feedback. Development occurs in short cycles called sprints, typically lasting 24 weeks, allowing teams to deliver small, functional pieces of the software quickly and adapt to changes.
